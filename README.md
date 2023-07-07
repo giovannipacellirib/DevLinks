@@ -1,8 +1,8 @@
 <h1 align="center"> DevLinks </h1>
 
 <p align="center">
-Esse projeto foi feito durante o programa exclusivo e gratuito (discover), promovido pela Rocketseat para ensino de tecnologias WEB. <br/>
-<a href="https://lp.rocketseat.com.br/devlinks/inscricao?utm_source=github&utm_medium=descricao&utm_campaign=capture-devlinks&utm_term=organic&utm_content=descricao-github-mayk-brito">Estude esse projeto em formato de vídeo clicando aqui.</a>
+Este é o meu primeiro projeto! Desenvolvido durante o programa exclusivo e gratuito (discover), promovido pela Rocketseat para ensino de tecnologias WEB. <br/>
+<a href="https://lp.rocketseat.com.br/devlinks/inscricao?utm_source=github&utm_medium=descricao&utm_campaign=capture-devlinks&utm_term=organic&utm_content=descricao-github-mayk-brito">Acesse o programa Discover clicando aqui.</a>
 </p>
 
 <p align="center">
@@ -41,7 +41,7 @@ O DevLinks é um agregador de links para usar como cartão de visitas online.
 
 ## 🔖 Layout
 
-Você pode visualizar o layout do projeto através [DESSE LINK](https://www.figma.com/community/file/1187422022288947321). É necessário ter conta no [Figma](https://figma.com) para acessá-lo.
+Para visualizar o layout do projeto [clique aqui](https://www.figma.com/community/file/1187422022288947321). É necessário ter conta no [Figma](https://figma.com) para acessá-lo.
 
 ## 📝 Licença
 
@@ -49,4 +49,4 @@ Esse projeto está sob a licença MIT.
 
 ---
 
-Feito durante o programa Discover da Rocketseat (https://rocketseat.com.br/discover)
+Feito com ❤ durante o programa Discover da Rocketseat: (https://rocketseat.com.br/discover)
