@@ -5,7 +5,7 @@ function toggleMode() {
   const img = document.querySelector("#profile img")
 
   if (html.classList.contains("light")) {
-    img.setAttribute("src", "./assets/avatar-light.png")
+    img.setAttribute("src", "./assets/avatar-light-gp.png")
   } else {
     img.setAttribute("src", "./assets/avatar-gp.png")
   }
@@ -13,12 +13,12 @@ function toggleMode() {
   if (html.classList.contains("light")) {
     img.setAttribute(
       "alt",
-      "Foto de Mayk Brito sorrindo, utilizando óculos escuros, blusa preta, sem barba em um fundo (gradiente) roxo e azul"
+      "Foto de Giovanni Pacelli sorrindo, utilizando óculos, camiseta preta em seu quarto."
     )
   } else {
     img.setAttribute(
       "alt",
-      "Foto de Giovanni Pacelli digitando, utilizando blusa azul marinho, sentado em uma cadeira em seu quarto."
+      "Foto de Giovanni Pacelli sorrindo, utilizando blusa azul marinho, sentado em uma cadeira em seu quarto."
     )
   }
 }
