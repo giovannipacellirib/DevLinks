@@ -22,7 +22,3 @@ function toggleMode() {
     )
   }
 }
-
-function idade() {
-  alert: "14"
-}
